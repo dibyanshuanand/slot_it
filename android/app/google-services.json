@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405510580835",
+    "firebase_url": "https://slot-it.firebaseio.com",
+    "project_id": "slot-it",
+    "storage_bucket": "slot-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405510580835:android:831910087a6c330a192656",
+        "android_client_info": {
+          "package_name": "com.ironmerc.slot_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405510580835-vqkhh2s28cgk3d9fce0qg2jf8gbk2sm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ironmerc.slot_it",
+            "certificate_hash": "1c26df510653c031c176ea092f4d370f99c925e2"
+          }
+        },
+        {
+          "client_id": "405510580835-43hrs9i4rtq5mhqbj0uqt9d60f0gmeed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4P4HTvLJmx4KSMWoWU0yZUXuZJOGoLXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405510580835-43hrs9i4rtq5mhqbj0uqt9d60f0gmeed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
