@@ -1,6 +1,8 @@
 ### Slot-It
 
-Mobile app written in Flutter to facilitate online booking of slots for doctors' appointment.
-It uses Firebase for backend and includes custom booking logic, from scratch.
+Cross-platform mobile app facilitating online booking of doctor's appointments.
+Built on top of built from scratch logic to simplify booking process, eliminating hassles of in-person bookings and avoids mis-alignments and collisions in bookings.
 
-Work in progress.
+App written in Dart using Flutter. Firebase used as backend.
+
+🚧 Work in progress. 
